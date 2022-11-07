@@ -72,7 +72,7 @@ author = "Prachodayat Education"
 username = "prachodayat.in"
 
 # [optional] your 128x128 avatar, preferably svg
-avatar = "./static/images/prachodayat_education.png"
+avatar = "../static/images/prachodayat_education.png"
 
 # [optional] the keywords which highlight the type of content on your microblog
 keywords = [ "microblog", "linux", "devops", "openbsd" ]
