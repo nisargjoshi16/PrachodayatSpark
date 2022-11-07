@@ -1,8 +1,12 @@
-{% extends "base.html" %}
+{% import "macros/article.html" as article %}
+{% extends "base.html" -%}
 
-{% block content %}
-<h1 class="title">
-  Welcome to Prachodayat.in diary.
-</h1>
-<p>Click <a href="{{ get_url(path='@/blog/_index.md') }}">here</a> to see posts.</p>
-{% endblock content %}
+{%- block main %}
+  {%- for post in section.pages %}
+  <article>
+    {{ article::header(page=post) }}
+    {{ article::content(page=post) }}
+    {{ article::footer(page=post) }}
+  </article>
+  {% endfor -%}
+{% endblock -%}
