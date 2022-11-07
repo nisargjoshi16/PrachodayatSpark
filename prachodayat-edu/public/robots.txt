@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://prachodayat.netlify.app/sitemap.xml
