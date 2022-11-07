@@ -4,18 +4,6 @@ date = 2022-11-07
 [taxonomies]
 tags = [ "peers","satsang","gurukul"]
 +++
-+++
-title = "Choose right set of friends"
-date = 2022-11-07
-[taxonomies]
-tags = [ "peers","satsang","gurukul"]
-+++
-+++
-title = "Choose right set of friends"
-date = 2022-11-07
-[taxonomies]
-tags = [ "peers","satsang","gurukul"]
-+++
 
 ![Importance of Satsang](2022-11-07-21-58-58.png "Importance of Satsang")
 
