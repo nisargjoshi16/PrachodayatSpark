@@ -10,7 +10,7 @@ tags = [ "pedagogy","storytelling"]
 
 If you are teacher, no matter which subject you teach, you should develop a habit of integrating your content in story.
 
-I liked movie 'Inception' very much for its recursive multi layered story telling. With each layer within layer, mind opens up new avenues. It is endurance exercise for the mind like how you swim or run marathon for physical body.
+I liked movie 'Inception' very much for its recursive multi layered story telling. With each layer within layer, mind opens up new avenues. It is endurance exercise for the mind like how  you swim or run marathon for physical body.
 
 
 We have rich history of such recursive events in Maha kavya(s).
