@@ -2,12 +2,12 @@
 title = "Education and वृत्ति निर्माण "
 date = 2022-11-07
 [taxonomies]
-tags = [ "Outcomes","Mindset","Virtues"]
+tags = [ "outcomes","mindset","virtues"]
 +++
 
 # Education and वृत्ति निर्माण
 
-![Untitled](edu_005.png)
+![Untitled](edu_005_education_moral_development.png)
 
 The important aspect of primary education is to develop वृत्ति . Moral and professional conduct in layman's English. It is one of those non-translatable word for me.
 
